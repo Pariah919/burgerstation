@@ -2,7 +2,7 @@
 	name = "defibrillator"
 	icon = 'icons/obj/items/defib.dmi'
 	desc = "Contains a lot of atoms!"
-	desc_extended = "RCDs use this as ammo. Stick inside an RCD when empty to refill it of atoms."
+	desc_extended = "Put it on your back and then take out the paddles once it's on and apply to dead person."
 
 	var/obj/item/defib_paddle/paddle_left
 	var/obj/item/defib_paddle/paddle_right

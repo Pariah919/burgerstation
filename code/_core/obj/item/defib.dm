@@ -2,7 +2,7 @@
 	name = "defibrillator"
 	icon = 'icons/obj/items/defib.dmi'
 	desc = "Contains a lot of atoms!"
-	desc_extended = "Put it on your back and then take out the paddles once it's on and apply to dead person."
+	desc_extended = "Put it on your back and after that take out the paddles and apply them on a recently dead person."
 
 	var/obj/item/defib_paddle/paddle_left
 	var/obj/item/defib_paddle/paddle_right
